@@ -1,6 +1,6 @@
 # PromptLab – Automated Prompt Engineering Toolkit
 
-PromptLab is a Python experimental framework for "Systematic prompt engineering and evaluation". It showcases how to design, test, and analyze prompts with documentation content, automated testing, and evaluation. 
+PromptLab is a Python experimental framework for "Systematic prompt engineering and evaluation". It showcases how to design, test, and analyze prompts with documentation content (in this case, Blender's manual), automated testing, and evaluation. 
 
 ## Features / Prompt Types
 
